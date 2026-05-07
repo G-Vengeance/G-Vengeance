@@ -61,6 +61,3 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=G-Vengeance&icon=0&color=1" alt="Profile Views"/></a>
-</p>
